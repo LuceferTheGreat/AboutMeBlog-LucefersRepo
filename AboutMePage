@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <a href="http://127.0.0.1/About%20Me%20Blog%20Page/About-Me-Blog-Practice.php">
+		<title>About Me</title>
+		<link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    
+    <
+	</head>
+	
+	<body>
+		<!-- header start -->
+		<div id="header" class="section">
+			<img alt="" class="img-circle" src="">
+		</div>
+		
+		<!-- header end -->
+		
+		<div id="title" class="section">
+			<h2 align="center"><span><big>Lucefer</big></span></h2>
+		</div>
+		
+		<!-- About Me section start -->
+		<div class="section">
+			<h1><span>About Me</span></h1>
+			<p>
+			<hr/ heigth=150px>
+				Hello!
+			
+			<p>My name is Lucefer, and this is my story on how I created <i>this</i> page from scratch.</p> 	
+	 	   I started this from honestly being intrigued with how websites and pages <i>actually work</i>. So, I researched and started to study programming languages and web development.By learning the "behind the scenes" work, I see everything a lot different. I not only understand the amount of work behind web pages and applications, but I can <em>create</em> my own versions! All just because I was curious and chased my dream.</p><br>
+  
+  <!-- Start Reasons and Benefits -->
+ 					</!-->
+			
+			<p align="center"><b>What can you do now?</b></p><hr width=175px>
+
+			<p>With my training and learning how to code, I have gained experience in <i>problem-solving skills</i> using programming, and a new way to communicate with others on a technical level.</p></br>
+
+<b><p align="center">What are the benefits?</p></b><hr width=175px>
+			<p>The benefits from skills and training in coding start almost immediately! I can use my coding skills to assist others, create websites for companies and obtain a great job in web development and more.</p> <br /> <p align="center"><b>How did I learn?</b><hr width=175px> <p>I started my learning with a software called <strong>SoloLearn</strong>. This software is absolutely FREE and gives you options of where you'd like to start. Programming languages or web development by category from start to finish.</p> <!--With a open learning enviorment where you can get help from other users and create challenges to better round your learning, makes this the easiest method to learn. They build your self-esteem and keep you motivated.--><br/> 
+
+<h1><span2>Start Now!</span2></h1>
+		 <p>If you want to start learning a new trade, use the link below to start today!</p> <a href="https://www.sololearn.com"target="_blank">Start Learning with SoloLearn</a>
+			</p>
+			<hr/>
+			<p class="quote"; align=left> <i>"Wonder how, Learn the skill, and Develop your own.</i> <br /> -Lucefer C."</p>
+		</div>
+		<!-- About Me section end -->
+		
+		<!-- My Schedule section start -->
+		<div class="section">
+			<!-- <h1><span>My Social Media</span></h1>
+			<table>
+				<tr>
+				
+					<th>Social Media pages</th>
+					<th>Instagram1</th>
+					<th>Instagram2</th>
+					<th>Facebook</th>
+					<th>Twitter</th>
+					<th>YouTube</th>
+				</tr>
+				<tr>
+					<td>8-8:30</td>
+					<td class="selected">Learn</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>9-10</td>
+					<td></td>
+					<td class="selected">Practice</td>
+					<td></td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>1-1:30</td>
+					<td></td>
+					<td></td>
+					<td class="selected">Play</td>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>3:45-5</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="selected">Code</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>6-6:15</td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td class="selected">Discuss</td>
+				</tr>
+			</table>
+		</div>
+										-->
+		<!-- My Schedule section end -->
+		
+		
+		<!-- My Skills section start -->
+		<div class="section">
+			<h1><span>My Skills</span></h1>
+			<hr>
+			<ul>
+				<li>HTML <br />
+					<progress min="0" max="100" value="45"></progress>
+				</li>
+				<li>JavaScript <br />
+					<progress min="0" max="100" value="50"></progress>
+				</li>
+				<li>CSS <br />
+					<progress min="0" max="100" value="30"></progress>
+				</li>
+				<li>Ruby <br />
+					<progress min="0"
+max="100" value="45"></progress>
+				</li>
+			</ul>
+		</div>
+		<!-- My Skills section end -->
+		
+		
+		 <!-- Media section start -->
+		<div display:none class="section">
+			<!-- <h1><span>My Media</span></h1>
+			<iframe height="150" width="300" src="https://m.youtube.com/watch?v=XOBAV8_JSQE" allowfullscreen frameborder="0"></iframe>
+		</div> -->
+		<!-- Media section end -->
+		
+		<!-- Form section start -->
+	   <div class="section">
+			<h1><span>Contact Me</span></h1>
+			
+			<hr>
+			<p align="center"> <em><h3>If you have any questions feel free to send me an email with the form below.</h3></em></p>
+			<hr>
+			
+
+				<circle cx="50" cy="50" r="50" fill="#FDD835"/>
+				<circle cx="30" cy="30" r="10" fill="#FFFFFF"/>
+				<circle cx="70" cy="30" r="10" fill="#FFFFFF"/>
+				<circle cx="30" cy="30" r="5" fill="#000000"/>
+				<circle cx="70" cy="30" r="5" fill="#000000"/>
+				<path d="M 30 70 q 20 20 40 0" stroke="#FFFFFF" stroke-width="5" fill="none" />
+			</svg>
+				 
+			<form>
+				<input name="name" placeholder="Your name?" type="text" required /><br/>
+				<input name="email" placeholder="Your Email" type="email" required /><br/>
+				<textarea name="message" placeholder="What do you wanna know?" required ></textarea>
+				<input type="submit" value="Send It" class="submit" />
+			</form>
+		</div>
+		<!-- Form section end -->
+		
+		<!-- Contacts section start -->
+		<div class="section" id="contacts">
+			<h1><span>Follow Me</span></h1>
+			<div>
+				<a href="https://www.sololearn.com/" target="_blank">
+					<img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
+				</a>
+				<a href="https://www.sololearn.com/profile/14244044/">
+					
+					<img ="Facebook" src="https://www.sololearn.com/.png"/>
+				</a>
+				<a href="#https://www.facebook.com"">
+				</a>
+					<img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png"/>
+				<a href="https://twitter.com">
+				</a>
+			</div>
+		</div>
+		<!-- Contacts section end -->
+		
+		<div class="copyright">
+			&copy; 2019 LUKE I SEE YOU AboutMe. All rights reserved.
+		</div>
+		
+	</body>
+</html>
